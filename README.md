@@ -71,4 +71,5 @@ HR departments face difficulties in pinpointing why employees leave the company 
 ---
 
 ## Dashboard Preview
-![HR-Analytics-Dashboard](Snapshot%20of%20the%20Dashboard.png)
+![HR-Analytics-Dashboard](Snapshot_of_the_Dashboard.png)
+
