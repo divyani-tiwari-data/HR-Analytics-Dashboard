@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ## Project Overview
-An interactive Power BI dashboard created to analyze employee attrition, workforce demographics, and compensation metrics across departments—tracking 1.47K total employees, 237 exits (16.12% attrition rate), and average tenure of 7.0 years.
+An interactive Power BI dashboard created to analyze employee attrition, workforce demographics, and compensation metrics across departments—tracking 1470 total employees, 237 exits (16.12% attrition rate), and average tenure of 7.0 years.
 
 ---
 
@@ -37,7 +37,7 @@ HR departments face difficulties in pinpointing why employees leave the company 
 ---
 
 ### Walkthrough of Key Visuals
-* **Top KPI Cards:** Instant visibility into Employees (**1.47K**), Attrition (**237**), Attrition Rate (**16.12%**), Avg Age (**37**), Avg Salary (**$6.5K**), and Avg Tenure (**7.0 Yrs**).
+* **Top KPI Cards:** Instant visibility into Employees (**1470**), Attrition (**237**), Attrition Rate (**16.12%**), Avg Age (**37**), Avg Salary (**$6.5K**), and Avg Tenure (**7.0 Yrs**).
 * **Filters & Slicers:** Top interactive filters for **Human Resources**, **Research & Development**, and **Sales**.
 * **Demographics & Education Charts:** Donut and bar visuals mapping attrition across Education Fields, Age Groups (**25–35** risk segment), and Gender.
 * **Role & Salary Breakdown:** Horizontal bar charts isolating high-exit Job Roles (Laboratory Technicians, Sales Executives) and Salary Slabs.
