@@ -45,7 +45,6 @@ HR departments face difficulties in pinpointing why employees leave the company 
 ---
 
 ## How to Use
-
 1. Download the `.pbix` (Power BI file) and the dataset file from this repository.
 2. Open the `.pbix` file in Microsoft Power BI Desktop.
 3. Reconnect the dataset source locally if prompted to load the interactive dashboard properly.
@@ -67,5 +66,4 @@ HR departments face difficulties in pinpointing why employees leave the company 
 ---
 
 ## Author
-
 **Divyani Tiwari** | B.Sc. Computer Science & Mathematics Student | Aspiring Data Analyst
