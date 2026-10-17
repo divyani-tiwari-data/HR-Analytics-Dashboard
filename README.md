@@ -44,6 +44,15 @@ HR departments face difficulties in pinpointing why employees leave the company 
 
 ---
 
+## How to Use
+
+1. Download the `.pbix` (Power BI file) and the dataset file from this repository.
+2. Open the `.pbix` file in Microsoft Power BI Desktop.
+3. Reconnect the dataset source locally if prompted to load the interactive dashboard properly.
+4. Check out the `Snapshot of the Dashboard.png` file for a quick preview of the final design!
+
+---
+
 ### Key Business Insights
 * **Salary Bracket Risk:** Employees in the **Upto $5K monthly income bracket** drive the majority of exits (**163 out of 237 total exits**), showing a clear link between entry-level pay and attrition.
 * **Early Tenure Attrition:** Turnover peaks heavily within the **first year of service (59 exits)**, suggesting a need for better onboarding and early employee engagement.
@@ -54,3 +63,9 @@ HR departments face difficulties in pinpointing why employees leave the company 
 
 ## Dashboard Preview
 ![HR-Analytics-Dashboard](Snapshot%20of%20the%20Dashboard.png)
+
+---
+
+## Author
+
+**Divyani Tiwari** | B.Sc. Computer Science & Mathematics Student | Aspiring Data Analyst
